@@ -20,4 +20,4 @@ This dataset aims to provide a comprehensive and representative sample of popula
 | 正文 (Content)                           | The full text of the fan fiction, which will be used for sentiment analysis, topic modeling, and other forms of text analysis. | Text           |
 #  Source of the Dataset
 ### SOURCES：
-hthttps://www.lofter.com
+https://www.lofter.com
